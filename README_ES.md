@@ -55,7 +55,7 @@ automáticamente el costo por porción. Sin hojas de cálculo. Sin suposiciones.
 **regioc3pi0**
 
 - GitHub: [@regioc3pi0](https://github.com/regioc3pi0)
-- Portafolio: [Bad Sector Labs](https://github.com/regioc3pi0/BadSector-Portafolio)
+- Portafolio: [Recetas Inteligentes](https://github.com/regioc3pi0/Recetas_Inteligentes-Portafolio)
 
 ---
 
