@@ -1,10 +1,11 @@
 # 🍳 Smart Recipes: Cost Manager
 
-![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart)
-![iOS](https://img.shields.io/badge/iOS-14%2B-black?style=flat-square&logo=apple)
-![macOS](https://img.shields.io/badge/macOS-Compatible-silver?style=flat-square&logo=apple)
-![App Store](https://img.shields.io/badge/App%20Store-Coming%20Soon-lightgrey?style=flat-square&logo=apple)
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Flame](https://img.shields.io/badge/Flame-Engine-FF6600?style=for-the-badge)](https://flame-engine.org)
+[![iOS](https://img.shields.io/badge/iOS-13%2B-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/mx/app/bad-sector/id6758281840)
+[![App Store](https://img.shields.io/badge/App_Store-Descargar-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://img.shields.io/badge/App%20Store-Coming%20Soon-lightgrey?style=flat-square&logo=apple)
+
 
 ---
 
