@@ -55,7 +55,7 @@ calculate the cost per serving. No spreadsheets. No guesswork.
 **regioc3pi0**
 
 - GitHub: [@regioc3pi0](https://github.com/regioc3pi0)
-- Portfolio: [Bad Sector Labs](https://github.com/regioc3pi0/BadSector-Portafolio)
+- Portfolio: [Recetas Inteligentes](https://github.com/regioc3pi0/Recetas_Inteligentes-Portafolio)
 
 ---
 
