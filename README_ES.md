@@ -1,11 +1,5 @@
 # 🍳 Recetas Inteligentes: Gestor de Costos
 
-![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Lenguaje-0175C2?style=flat-square&logo=dart)
-![iOS](https://img.shields.io/badge/iOS-14%2B-black?style=flat-square&logo=apple)
-![macOS](https://img.shields.io/badge/macOS-Compatible-silver?style=flat-square&logo=apple)
-![App Store](https://img.shields.io/badge/App%20Store-Próximamente-lightgrey?style=flat-square&logo=apple)
-
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Flame](https://img.shields.io/badge/Flame-Engine-FF6600?style=for-the-badge)](https://flame-engine.org)
