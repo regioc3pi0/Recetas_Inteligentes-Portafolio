@@ -62,4 +62,4 @@ calculate the cost per serving. No spreadsheets. No guesswork.
 ## 📄 License
 
 This project is proprietary software. Source code is private.
-All rights reserved © 2025 Emilio Villarreal
+All rights reserved © 2025

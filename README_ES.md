@@ -62,4 +62,4 @@ automáticamente el costo por porción. Sin hojas de cálculo. Sin suposiciones.
 ## 📄 Licencia
 
 Este proyecto es software propietario. El código fuente es privado.
-Todos los derechos reservados © 2025 Emilio Villarreal
+Todos los derechos reservados © 2025
